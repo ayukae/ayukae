@@ -22,5 +22,5 @@ type Ayuka = {
 ```
 
 ```math
-\ce{$\unicode[goombafont; color: black; z-index: -1; position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; opacity: 0.2; background-size: cover; background-image: url('https://github.com/ayukae/ayukae/blob/main/img.png?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color: black; z-index: -1; position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; opacity: 0.2; background-size: cover; background-image: url('https://github.com/ayukae/ayukae/blob/main/img2.png?raw=true');]{x0000}$}
 ```

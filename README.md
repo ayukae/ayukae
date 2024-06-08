@@ -2,7 +2,7 @@
 
 Hobby software engineer, aspiring computer scientist based in São Paulo, Brazil.
 
-[🌎 Website](https://kittens.cat) | [🧊 Codeberg](https://codeberg.org/ayuka) | [🐘 Mastodon](https://wetdry.world/@ax)
+[🌎 Website](https://kittens.cat) | [🧊 Codeberg](https://codeberg.org/ayuka) | [🐘 Mastodon](https://wetdry.world/@ax) | [Background attribution](https://unsplash.com/photos/sand-dunes-during-sunset-4cloovdyuvw)
 
 ### 📔 Latest blog posts
 

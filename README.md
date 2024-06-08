@@ -1,8 +1,8 @@
 ## Greetings, I'm Ayuka!
 
-Hobby software engineer, aspiring computer scientist based in São Paulo, Brazil.
+Hobby software engineer, aspiring computer scientist based in São Paulo, Brazil.x
 
-[🌎 Website](https://kittens.cat) | [🧊 Codeberg](https://codeberg.org/ayuka) | [🐘 Mastodon](https://wetdry.world/@ax) | [Background attribution](https://unsplash.com/photos/sand-dunes-during-sunset-4cloovdyuvw)
+[🌎 Website](https://kittens.cat) | [🧊 Codeberg](https://codeberg.org/ayuka) | [🐘 Mastodon](https://wetdry.world/@ax) | [Background attribution](https://unsplash.com/photos/photo-of-lake-near-trees-E7w_Ti4BSSs)
 
 ### 📔 Latest blog posts
 
